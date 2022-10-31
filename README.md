@@ -34,7 +34,7 @@
  &nbsp;
 
 🌱 I’m currently learning
-- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
 <!--
 **leticiavalladares/leticiavalladares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
