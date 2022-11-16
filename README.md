@@ -1,8 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/112868363/202181287-c610417d-7687-4e86-9e72-a491a4716fc3.png)
 
-&nbsp;
-
-<h4 align="center">Technical Skills</h4>
+<h5 align="center">Technical Skills</h5>
 
 <p align="center">
   <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white>
