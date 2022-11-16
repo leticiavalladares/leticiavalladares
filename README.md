@@ -1,4 +1,4 @@
-![banner(1)](https://user-images.githubusercontent.com/112868363/202179239-28f49030-6ece-4e63-a55b-d8cecb3f1aac.png)
+![banner](https://user-images.githubusercontent.com/112868363/202180801-30ae028e-2f2a-4d12-b820-a64be7e7b4d4.png)
 
 &nbsp;
 
@@ -33,10 +33,7 @@
   <br>
   <img src=https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white>
   <img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white>
-  
- </p>
- 
- &nbsp;
+</p>
 <!--
 **leticiavalladares/leticiavalladares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
